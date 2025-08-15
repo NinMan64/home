@@ -1,15 +1,15 @@
-This is NinMan64!
+# This is NinMan64!
 Welcome To the Honepage!
 
 # Cool Stuff!
 YouTube Channel:
-youtube.com/@nm64-1/
+https://youtube.com/@nm64-1/
 
 GitHub Page
-github.com/NinMan64/
+https://github.com/NinMan64/
 
 Ubuntermux-installer
-github.com/NinMan64/Ubuntermux-installer/
+https://github.com/NinMan64/Ubuntermux-installer/
 
 NinMan64's Cydia Repo
 http://ninman64.github.io/repo/
