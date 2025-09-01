@@ -28,14 +28,8 @@ end of October.
 
 
 
-
-this space intentionally left blank
-
-
-
-
-
 Cool Stuff Here⬇️
+
 [YouTube Channel](https://youtube.com/@nm64-1/ "Warning: Tech Overload.")
 
 [Projects of an 11-year-old coder!](https://github.com/NinMan64/ "mmmmm, code.")
