@@ -1,7 +1,7 @@
 # This is NinMan64!
 Welcome To the Honepage!
-___________________________________________
-News NM64
+
+# News NM64
 
 01/09/2025
 
@@ -25,7 +25,16 @@ This Restructuring will Finish by the
 end of October.
 
 -NinMan64
-___________________________________________
+
+
+
+
+this space intentionally left blank
+
+
+
+
+
 Cool Stuff Here⬇️
 [YouTube Channel](https://youtube.com/@nm64-1/ "Warning: Tech Overload.")
 
