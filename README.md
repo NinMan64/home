@@ -1,25 +1,47 @@
 # This is NinMan64!
 Welcome To the Honepage!
+___________________________________________
+News NM64
+01/09/2025
 
-# Cool Stuff!
-# YouTube Channel:
-[Technology Galore!](https://youtube.com/@nm64-1/ "Warning: Tech Overload.")
+NinMan64 Restructure
+NinMan64 Productions is Restructuring Soon!
+the NinMan64 Channel Will be splitting into
+5 Channels:
 
-# GitHub Page
+*NinMan64
+
+*NinMan64 Extras
+
+*NinMan64 Gamez
+
+*NinMan64 Life
+
+*KenB
+
+This Restructuring will Finish by the
+end of October.
+
+-NinMan64
+___________________________________________
+Cool Stuff Here⬇️
+[YouTube Channel](https://youtube.com/@nm64-1/ "Warning: Tech Overload.")
+
 [Projects of an 11-year-old coder!](https://github.com/NinMan64/ "mmmmm, code.")
 
-# Ubuntermux-installer
-[*Insert Hackers Song Here](https://github.com/NinMan64/Ubuntermux-installer/ "WHAT HAVE YOU DONE")
+[*Insert Hackers Song Here](https://github.com/NinMan64/Ubuntermux-installer/ "WHAT HAVE YOU DONE TO MY FREAKING PHONE")
 
-# NinMan64's Cydia Repo
-[Under Construction!](http://ninman64.github.io/repo/ "Beware the Mole.")
+[NinMan64 Repo (Under Construction!)](http://ninman64.github.io/repo/ "Beware of the Mole.")
 
-# How to Install Linux
 [The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh")
 
 
-Website version 2.0
+Website version 3.0
+Wow, 2 Updates in 1 Day???
 
-Made with Super Cow Powers!
 
-©2025 NintendoMan64 Productions.
+©2025 NinMan64 Productions.
+
+All Rights Reserved.
+
+el fish
