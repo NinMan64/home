@@ -2,9 +2,11 @@
 Welcome To the Honepage!
 ___________________________________________
 News NM64
+
 01/09/2025
 
 NinMan64 Restructure
+
 NinMan64 Productions is Restructuring Soon!
 the NinMan64 Channel Will be splitting into
 5 Channels:
