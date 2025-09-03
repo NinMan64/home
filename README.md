@@ -3,32 +3,15 @@ Welcome To the Honepage!
 
 # News NM64
 
-01/09/2025
+03/09/2025
 
-NinMan64 Restructure
-
-NinMan64 Productions is Restructuring Soon!
-the NinMan64 Channel Will be splitting into
-5 Channels:
-
-*NinMan64
-
-*NinMan64 Extras
-
-*NinMan64 Gamez
-
-*NinMan64 Life
-
-*KenB
-
-This Restructuring will Finish by the
-end of October.
-
--NinMan64
+NinMan64 Website's getting it's biggest
+Redesign yet!
 
 
 
-Cool Stuff Here⬇️
+
+# Cool Stuff Here⬇️
 
 [YouTube Channel](https://youtube.com/@nm64-1/ "Warning: Tech Overload.")
 
@@ -41,10 +24,11 @@ Cool Stuff Here⬇️
 [The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh")
 
 
-Website version 3.0
+Website version 4.0
 
 
-Wow, 2 Updates in 1 Day???
+[NM64 Privacy]
+(insert nm64 priv link here "Security.")
 
 
 ©2025 NinMan64 Productions.
