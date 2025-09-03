@@ -27,10 +27,6 @@ Redesign yet!
 Website version 4.0
 
 
-[NM64 Privacy]
-(http://ninman64.github.io/privacy/ "Security.")
-
-
 ©2025 NinMan64 Productions.
 
 All Rights Reserved.
