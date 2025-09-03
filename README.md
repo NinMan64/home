@@ -28,7 +28,7 @@ Website version 4.0
 
 
 [NM64 Privacy]
-(insert nm64 priv link here "Security.")
+(http://ninman64.github.io/privacy/ "Security.")
 
 
 ©2025 NinMan64 Productions.
