@@ -20,12 +20,12 @@ NinMan64 has absolutely nothing
 
 [NinMan64 Repo (Under Construction!)](http://ninman64.github.io/repo/ "Beware of the Mole.")
 
-[The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh"
+[The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh")
 
-[Jailbreak Tweaks](http://ninman64.github.io/Jailbreak/ "f*uk Apple and their prison Ecosystem"
+[Jailbreak Tweaks](http://ninman64.github.io/Jailbreak/ "f*uk Apple and their prison Ecosystem")
 
 
-Website version 4.1
+Website version 4.11
 
 
 ©2025 NinMan64 Productions.
