@@ -3,10 +3,9 @@ Welcome To the Honepage!
 
 # News NM64
 
-03/09/2025
+04/09/2025
 
-NinMan64 Website's getting it's biggest
-Redesign yet!
+NinMan64 has absolutely nothing
 
 
 
@@ -21,10 +20,12 @@ Redesign yet!
 
 [NinMan64 Repo (Under Construction!)](http://ninman64.github.io/repo/ "Beware of the Mole.")
 
-[The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh")
+[The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh"
+
+[Jailbreak Tweaks](http://ninman64.github.io/Jailbreak/ "f*uk Apple and their prison Ecosystem"
 
 
-Website version 4.0
+Website version 4.1
 
 
 ©2025 NinMan64 Productions.
