@@ -18,7 +18,7 @@ NinMan64 has absolutely nothing
 
 [*Insert Hackers Song Here](https://github.com/NinMan64/Ubuntermux-installer/ "WHAT HAVE YOU DONE TO MY FREAKING PHONE")
 
-[NinMan64 Repo (Under Construction!)](http://ninman64.github.io/repo/ "Beware of the Mole.")
+[NinMan64 Repo (Under Construction!)](http://ninman64.github.io/qmole/ "Beware of the Mole.")
 
 [The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh")
 
