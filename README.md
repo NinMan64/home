@@ -3,9 +3,9 @@ Welcome To the Honepage!
 
 # News NM64
 
-04/09/2025
+08/12/2025
 
-NinMan64 has absolutely nothing
+NinMan64's ACTUAL repo is going online!
 
 
 
@@ -18,14 +18,16 @@ NinMan64 has absolutely nothing
 
 [*Insert Hackers Song Here](https://github.com/NinMan64/Ubuntermux-installer/ "WHAT HAVE YOU DONE TO MY FREAKING PHONE")
 
-[NinMan64 Repo (Under Construction!)](http://ninman64.github.io/qmole/ "Beware of the Mole.")
+[QMole Repository Archive](http://ninman64.github.io/qmole/ "Beware of the Mole.")
+
+[NinMan64 repo](http://ninman64.github.io/repo/ "Pfft, nerds.")
 
 [The Penguin Lives!](http://ninman64.github.io/Linux/ "uhahAHAHAHuhuh")
 
 [Jailbreak Tweaks](http://ninman64.github.io/Jailbreak/ "f*uk Apple and their prison Ecosystem")
 
 
-Website version 4.11
+Website version 4.12
 
 
 ©2025 NinMan64 Productions.
